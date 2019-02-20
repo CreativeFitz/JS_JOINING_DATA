@@ -1,0 +1,84 @@
+{
+
+    "employees": [
+        {
+            "name": "Brandon",
+            "id": 1,
+            "departmentId": 1,
+            "computerId": 1
+        },
+        {
+            "name": "Sarah",
+            "id": 2,
+            "departmentId": 2,
+            "computerId": 2
+        },
+        {
+            "name": "Jimbo",
+            "id": 3,
+            "departmentId": 1,
+            "computerId": 3
+        },
+        {
+            "name": "Dwight",
+            "id": 4,
+            "departmentId": 3,
+            "computerId": 4
+        },
+        {
+            "name": "Angela",
+            "id": 5,
+            "departmentId": 1,
+            "computerId": 5
+        },
+        {
+            "name": "Pam",
+            "id": 6,
+            "departmentId": 3,
+            "computerId": 6
+        }
+    ],
+
+    "departments": [
+        {
+            "name": "History",
+            "id": 1
+        },
+        {
+            "name": "Math",
+            "id": 2
+        },
+        {
+            "name": "Science",
+            "id": 3
+        }
+    ],
+
+    "computers": [
+        {
+            "number": "453-524-773",
+            "id": 1
+        },
+        {
+            "number": "487-555-754",
+            "id": 2
+        },
+        {
+            "number": "784-150-744",
+            "id": 3
+        },
+        {
+            "number": "784-324-598",
+            "id": 4
+        },
+        {
+            "number": "987-211-070",
+            "id": 5
+        },
+        {
+            "number": "471-789-000",
+            "id": 6
+        }
+
+    ]
+}
